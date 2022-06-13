@@ -1,8 +1,5 @@
-Sel1
-Sel2
-Java1
-Java2
-Test1
-Test2
-Data1
-Data2
+QA1
+QA2
+QA3
+QA4
+QA5
